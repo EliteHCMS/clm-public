@@ -1,1 +1,0 @@
-import{f as i}from"./index.605b60e6.js";import{r as e,a}from"./index.04bc0a32.js";const r=e(a.create({timeout:25e3}),{maxRequests:6,perMilliseconds:1e3});var l=i(({app:o})=>{o.config.globalProperties.$axios=a,o.config.globalProperties.$api=r});export{r as api,l as default};
